@@ -79,7 +79,7 @@ else:
 # File upload widget for PDFs
 uploaded_pdfs = st.file_uploader("Upload PDF Certificates (multiple files allowed)", type="pdf", accept_multiple_files=True)
 
-if st.button("Process Certificates"):
+if st.button("Process"):
     if uploaded_pdfs:
         # Process PDFs
         st.info("Processing PDF files...")
