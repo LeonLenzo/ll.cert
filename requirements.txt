@@ -22,7 +22,6 @@ click==8.0.3
 colorama==0.4.4
 coloredlogs==7.3
 colormath==3.0.0
-command-not-found==0.3
 commonmark==0.9.1
 cryptography==3.4.8
 cycler==0.11.0
