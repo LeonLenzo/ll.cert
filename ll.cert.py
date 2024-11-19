@@ -68,7 +68,7 @@ def extract_data_from_pdf(pdf_path, course_dict):
 
 def compile_pdf_data(uploaded_pdfs, course_dict):
     """
-    Compile data from uploaded PDFs and add a unique identifier.
+    Compile data from uploaded PDFs and add a unique identifier, with reordered columns.
     """
     all_rows = []
     for uploaded_file in uploaded_pdfs:
@@ -85,8 +85,11 @@ def compile_pdf_data(uploaded_pdfs, course_dict):
     if not pdf_data.empty:
         pdf_data["Unique ID"] = pdf_data["Certificate Number"] + "_" + pdf_data["Course Code"]
 
-    return pdf_data
+        # Reorder columns to place "Unique ID" first and "Name" last
+        column_order = ["Unique ID"] + [col for col in pdf_data.columns if col not in ["Unique ID", "Name"]] + ["Name"]
+        pdf_data = pdf_data[column_order]
 
+    return pdf_data
 
 def cross_reference_data(pdf_data, contact_data):
     """
