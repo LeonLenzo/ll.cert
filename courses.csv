@@ -1,13 +1,815 @@
-﻿CONDUCT CIVIL CONSTRUCTION WATER VEHICLE OPERATIONS,RIIMPO326E
-CONDUCT SCRAPER OPERATIONS,RIIMPO312E
-CONDUCT TIP TRUCK OPERATIONS,RIIVEH304E
-CONDUCT CIVIL CONSTRUCTION TELESCOPIC MATERIAL HANDLER OPERATIONS,RIIHAN309F
-CONDUCT RIGID HAUL TRUCK OPERATIONS,RIIMPO338E
-CONDUCT CIVIL CONSTRUCTION BACKHOE / LOADER OPERATIONS,RIIMPO319E
-CONDUCT CIVIL CONSTRUCTION EXCAVATOR OPERATIONS,RIIMPO320F
-Conduct Articulated Haul Truck Operations,RIIMPO337E
-Conduct Civil Construction Wheeled Front End Loader Operations,RIIMPO321F
-Conduct Civil Construction Dozer Operations,RIIMPO323E
-Conduct Civil Construction Skid Steer Loader Operations,RIIMPO318F
-CONDUCT BULK WATER TRUCK OPERATIONS,RIIMPO206D
-CONDUCT CIVIL CONSTRUCTION ROLLER OPERATIONS,RIIMPO317F
+Course Name,Course Code
+Work safely in autonomous environments ,RIIARO301
+Work safely with remotely piloted aircraft systems ,RIIARO302
+Operate equipment in autonomous environments ,RIIARO303
+Coordinate and interact with autonomous systems ,RIIARO304
+Build and maintain rout es for autonomous operations ,RIIARO305
+Respond to obstructio ns to autonomous operations ,RIIARO306
+Activate and deac tivate autonomous systems ,RIIARO307
+Supervise autonomous operations ,RIIARO401
+Plan and organise work ,RIIBEF201D
+Plan and organise work ,RIIBEF201E
+Identify and rectify site operating problems ,RIIBEF202E
+Run on-site operations ,RIIBEF301D
+Monitor site production activities ,RIIBEF302E
+Manage non-routine and complex technical situations ,RIIBEF401E
+Supervise on-site operations ,RIIBEF402D
+Conduct business negotiations ,RIIBEF601E
+Establish and evaluate operational performance management systems ,RIIBEF602E
+Conduct a feasibility study ,RIIBEF604E
+Conduct surface blas t hole drilling operations ,RIIBHD301E
+Conduct underground development drilling ,RIIBHD302E
+Conduct long hole drilling ,RIIBHD303E
+Supervise blast hole drilling operations ,RIIBHD401D
+Support shotfiring operations ,RIIBLA201E
+Support underground shotfiring operations ,RIIBLA202F
+Conduct mobile mixing of explosives ,RIIBLA203E
+"Store, handle and transport explosives in underground coal mines ",RIIBLA204E
+"Store, handle and transport explosives ",RIIBLA205D
+"Store, handle and transport explosives ",RIIBLA205E
+Conduct surface shotfiring operations ,RIIBLA301D
+Conduct surface shotfiring operations ,RIIBLA301E
+Conduct shotfiring operations in underground coal mines ,RIIBLA302D
+Conduct shotfiring operations in underground coal mines ,RIIBLA302E
+Conduct underground development shotfiring ,RIIBLA303D
+Conduct underground development shotfiring ,RIIBLA303E
+Conduct underground production shotfiring ,RIIBLA304D
+Conduct underground production shotfiring ,RIIBLA304E
+Conduct secondary blasting ,RIIBLA305D
+Conduct secondary blasting ,RIIBLA305E
+Conduct a blast survey ,RIIBLA307E
+Manage blasting operations ,RIIBLA401E
+Monitor and control the effects of blasting on the environment ,RIIBLA402D
+Monitor and control the effects of blasting on the environment ,RIIBLA402E
+Design blasts ,RIIBLA403
+Establish and ma intain a blasting system ,RIIBLA602D
+Establish and main tain explosives safety and security management systems ,RIIBLA602E
+Rehabilita te exploration site ,RIICAR301D
+Rehabilitate small mine site ,RIICAR302D
+Strip pile heads ,RIICBM201E
+Maintain concrete bridges ,RIICBM301E
+Install pre-cast girders ,RIICBM302E
+Install pre-cast parapets ,RIICBM303E
+Operate bridge inspection units ,RIICBM304E
+Install pre-cast  concrete bridge decks ,RIICBM305E
+Undertake concreting work on concrete bridges ,RIICBM306E
+Construct formwork and false work on concrete bridges ,RIICBM307E
+Hand spread asphalt ,RIICBS202E
+Safely handle bituminous materials ,RIICBS203D
+Safely handle bituminous materials ,RIICBS203E
+Take samples of road surfacing materials ,RIICBS207E
+Conduct profile planer operations ,RIICBS301E
+Conduct paver screeding operations ,RIICBS302E
+Conduct materials transfer vehicle operations ,RIICBS303E
+Compact asphalt with rollers ,RIICBS304E
+Conduct asphalt paver operation ,RIICBS305E
+Conduct micr o surfacing operations ,RIICBS306E
+Conduct bitumen sprayer operations ,RIICBS307E
+Load aggregate using purpose built loaders ,RIICBS308E
+Conduct self-propelled aggregate spreader operations ,RIICBS309E
+Conduct patching operations ,RIICBS310E
+Produce asphalt products ,RIICBS311E
+Conduct bitumen tanker operations ,RIICBS312E
+Conduct tack coat spraying operations ,RIICBS313
+Conduct aggregate spreader box operations ,RIICBS314
+Roll aggregate in sprayed sealing operations ,RIICBS315
+Conduct pavement sweeping operations ,RIICBS316
+Conduct road maintenance operations ,RIICBS317
+Supervise asphalt pavi ng and compaction operations ,RIICBS401E
+Supervise the application of bituminous sprayed treatments ,RIICBS402E
+Supervise the applicat ion of polymer modified binders ,RIICBS403E
+Supervise the selection and use of bituminous emulsions ,RIICBS404E
+Supervise micr o surfacing operations ,RIICBS405E
+Supervise pavement prof iling operations using a profiler ,RIICBS406E
+Supervise the manufacture and delivery of hot mix asphalt ,RIICBS407E
+Supervise the manufacture of cold mixes ,RIICBS408E
+Supervise the manufacture of polymer modified binders ,RIICBS409E
+Supervise the manufacture of bituminous emulsions ,RIICBS410E
+Supervise the manufacture of micro surfacing mixes ,RIICBS411E
+Carry out measurements and calculations ,RIICCM201D
+Carry out measurements and calculations ,RIICCM201E
+"Identify, locate and protect underground services ",RIICCM202E
+Read and interpret plans and job specifications ,RIICCM203D
+Read and interpret plans and job specifications ,RIICCM203E
+Place and fix reinforcement materials ,RIICCM204E
+Carry out manual excavation ,RIICCM205E
+Carry out manual excavation ,RIICCM205F
+Support plant operations ,RIICCM206D
+Support plant operations ,RIICCM206E
+Spread and co mpact materials manually ,RIICCM207D
+Spread and compact materials manually ,RIICCM207E
+Carry out basic levelling ,RIICCM208D
+Carry out basic levelling ,RIICCM208E
+Carry out concrete work ,RIICCM209D
+Carry out concrete work ,RIICCM209E
+Install trench support ,RIICCM210D
+Install trench support ,RIICCM210E
+Construct and di smantle fences and gates ,RIICCM211E
+Track directional boring operations ,RIICCM302
+Conduct vacuum excavations ,RIICCM303
+Develop and maintain  positive community relations ,RIICCR401E
+Manage customer relationships ,RIICCR601D
+Construct underpinning ,RIICFW301E
+Install temporary and permanent rock anchors ,RIICFW302E
+Install primary ground supports ,RIICFW303E
+Conduct pile driving operations ,RIICFW304E
+Conduct cast in -situ pilings operations ,RIICFW305E
+Direct pile driving operations ,RIICFW306E
+Direct cast in-situ piling operations ,RIICFW307E
+Conduct screw piling operations ,RIICFW308
+Communicate in the workplace ,RIICOM201D
+Communicate in the workplace ,RIICOM201E
+Communicate information ,RIICOM301D
+Communicate information ,RIICOM301E
+Install water mains pipelines ,RIICPL301D
+Install water mains pipelines ,RIICPL301E
+Install stormwater systems ,RIICPL302D
+Install stormwater systems ,RIICPL302E
+Install sewer pipelines ,RIICPL303D
+Install sewer pipelines ,RIICPL303E
+Install pre-cast gully pits ,RIICPL304D
+Install pre-cast gully pits ,RIICPL304E
+Install pre-cast access chambers ,RIICPL305E
+Supervise the installation of underground services using open excavation ,RIICPL401E
+Repair potholes ,RIICRC201D
+Repair potholes ,RIICRC201E
+Install signs ,RIICRC202E
+Install sub-soil drainage ,RIICRC203D
+Install sub-soil drainage ,RIICRC203E
+Install and main tain roadside fixtures ,RIICRC204E
+Install utility poles ,RIICRC205E
+Install pre-cast concrete crash barriers ,RIICRC206E
+Install noise barriers ,RIICRC207E
+Lay pipes ,RIICRC208D
+Lay pipes ,RIICRC208E
+Lay reinforced concrete box culverts ,RIICRC209E
+Maintain drainage systems ,RIICRC301E
+"Place and form concrete kerb, channel and fixtures ",RIICRC302E
+Lay pavers ,RIICRC303E
+Maintain sealed roads ,RIICRC304E
+Conduct road construc tion paver screeding operations ,RIICRC305E
+Conduct earthworks ,RIICRC306E
+Conduct road pavement construction ,RIICRC307E
+Conduct paver operations ,RIICRC308E
+Conduct st abiliser operations ,RIICRC309D
+Conduct st abiliser operations ,RIICRC309E
+Construct and maintain roads ,RIICRC310E
+Conduct concrete road paver operations ,RIICRC311D
+Conduct concrete road paver operations ,RIICRC311E
+Setup and maintain concrete paver stringlines ,RIICRC312D
+Set up and maintain concrete paver stringlines ,RIICRC312E
+Conduct concrete road curing and texturing operations ,RIICRC313D
+Conduct concrete road curing and texturing operations ,RIICRC313E
+Handle concrete materials ,RIICRC314D
+Handle concrete materials ,RIICRC314E
+Use concreting materials and equipment ,RIICRC315D
+Use concreting materials and equipment ,RIICRC315E
+Place an d compact concrete ,RIICRC316D
+Place an d compact concrete ,RIICRC316E
+Finish concrete pavements ,RIICRC317D
+Finish concrete pavements ,RIICRC317E
+Cure concrete ,RIICRC318D
+Cure concrete ,RIICRC318E
+Saw and cut concrete pavements to initiate planned cracks ,RIICRC319D
+Saw and cut concrete pave ments to initiate planned cracks ,RIICRC319E
+Seal concrete pavements ,RIICRC320D
+Seal concrete pavements ,RIICRC320E
+Use automated paving guidance systems ,RIICRC321D
+Use automated paving guidance systems ,RIICRC321E
+"Receive, check and record concrete deliveries ",RIICRC322D
+"Receive, check and record concrete deliveries ",RIICRC322E
+Insert tie bars in fresh concrete ,RIICRC323D
+Insert tie bars in fresh concrete ,RIICRC323E
+Supervise flexible pavement construction ,RIICRC401E
+Supervise rigid pavement construction ,RIICRC402E
+Supervise the st abilisation of materials ,RIICRC403E
+Inspect and report on pavement condition ,RIICRC404E
+Carry out pavement condition measurement ,RIICRC405E
+Supervise pavement maintenance ,RIICRC406E
+Escort mobile works ,RIICRM201F
+Handle and store road marking materials ,RIICRM202E
+Conduct pedestrian road marking operations ,RIICRM203E
+Prepare surfaces for road marking ,RIICRM204E
+Conduct road ma rking measuring operations ,RIICRM205E
+Conduct airless and atomised spraying operations ,RIICRM206E
+Install rais ed pavement markers ,RIICRM207E
+Conduct ride on road marking operations ,RIICRM301E
+Conduct long line road marking operations ,RIICRM302E
+Conduct thermo plas tic road marking operations ,RIICRM303E
+Supervise civil concrete structure construction ,RIICSG401E
+Supervise civil steel structure construction ,RIICSG402E
+Supervise civil timber structure construction ,RIICSG403E
+"Supervise civil masonry, crib and gabion structure construction ",RIICSG404E
+Carry out inspections of civil structures ,RIICSG405E
+Supervise maintenance of civil structures ,RIICSG406E
+Maintain timber bridges ,RIICTB201E
+Apply bridge durability treatments ,RIICTB202E
+Produce bridge drawings and sketches ,RIICTB203E
+Undertake visual inspections ,RIICTB301E
+Install temporary support members ,RIICTB302E
+Erect temporary modular support systems (baileys) on existing bridges ,RIICTB303E
+Install or replace sub-structure members ,RIICTB304E
+Install or replace super-structure members ,RIICTB305E
+Splice and connect timber members ,RIICTB306E
+Assemble and disassemble temporary modular bridges ,RIICTB307E
+Install or replace truss members ,RIICTB308E
+"Construct, maintain and remove coffer dams ",RIICTB309E
+Construct specialised timber deck systems ,RIICTB310E
+Install tunnelling constructions services ,RIICTC301E
+Line tunnels ,RIICTC302E
+Excavate tunnel by machine ,RIICTC303E
+Muck ou t tunnel earthworks ,RIICTC304E
+Construct portals ,RIICTC305E
+Conduct tunnel boring machine operations ,RIICTC306
+Supervise tunnel construction ,RIICTC401E
+Supervise tunnel boring machine operations ,RIICTC402
+Conduct fluid assisted directional boring ,RIICTT301E
+"Conduct impact moling, ramming and augering operations ",RIICTT302E
+Control micro tunnelling and pipe-jacking operations ,RIICTT303E
+Undertake on-line replacement for existing pipeline systems ,RIICTT304E
+Undertake localised repair an d sealing of existing pipeline systems ,RIICTT305E
+Install cure in-place linings for existing pipeline systems ,RIICTT306E
+Spray linings for existing pipeline systems ,RIICTT307E
+Install close-fit linings for existing pipeline systems ,RIICTT308E
+Install slip lining in existing pipeline systems ,RIICTT309E
+Renovate large diameter pipes and chambers ,RIICTT310E
+Supervise the installation of unde rground services using trenchless technology ,RIICTT401E
+Supervise repair and rehabilitation of underground services using trenchless technology ,RIICTT402E
+Prepare detailed design of foundations ,RIICWD501E
+Prepare detailed design of lighting ,RIICWD502E
+Prepare traffic management  plans and traffic guidance schemes ,RIICWD503E
+Prepare detailed design of environmental controls ,RIICWD504E
+Prepare detailed design of landscaping ,RIICWD505E
+Prepare detailed design of canals ,RIICWD506E
+Prepare detailed geotechnical design ,RIICWD507D
+Prepare detailed design of rural roads ,RIICWD508E
+Prepare detailed design of urban roads ,RIICWD509E
+Prepare detailed design of busways ,RIICWD510E
+Prepare detailed design of sub-divisions ,RIICWD511E
+Prepare detailed design of motorways and interchanges ,RIICWD512E
+Prepare detailed design of rail civil infrastructure ,RIICWD513E
+Prepare detailed design of dams ,RIICWD514E
+Prepare detailed design of airfield civil works ,RIICWD515E
+Prepare detailed design of bicycle ways ,RIICWD516E
+Prepare detailed design of industrial hardstands ,RIICWD517E
+Prepare detailed design of open car parks ,RIICWD518E
+Prepare detailed design of intermodal facilities civil works ,RIICWD519E
+Prepare detailed design of rigid pavements ,RIICWD520E
+Prepare detailed design of flexible pavements ,RIICWD521E
+Prepare stabilised material mix design ,RIICWD522E
+Prepare asphalt mix design ,RIICWD523E
+Prepare design of spray seal surfacing ,RIICWD524E
+Select pavement surfacing ,RIICWD525E
+Prepare detailed traffic analysis ,RIICWD526E
+Prepare detailed design of traffic signals ,RIICWD527E
+Prepare detailed design of traffic management systems ,RIICWD528E
+Prepare detailed design of underground services ,RIICWD529E
+Prepare detailed design of surface drainage ,RIICWD530E
+Prepare detailed design of subsurface drainage ,RIICWD531E
+Prepare detailed design of tunnels ,RIICWD532E
+Prepare detailed design of civil concrete structures ,RIICWD533E
+Prepare detailed design of civil steel structures ,RIICWD534E
+Prepare detailed design of civil timber structures ,RIICWD535E
+"Prepare detailed design of civil masonry, crib and gabion structures ",RIICWD536E
+Prepare detailed design of marine structures civil works ,RIICWD537E
+Prepare traffic management plans and tr affic guidance schemes for high volume roads ,RIICWD538
+Prepare traffic management plans and tr affic guidance schemes for motorways and freeways ,RIICWD539
+Manage civil works design processes ,RIICWD601E
+Supervise civil works ,RIICWM401E
+Supervise civil works contractors ,RIICWM402E
+Implement civil construction plans ,RIICWM501E
+Implement civil works maintenance programs ,RIICWM502E
+Prepare civil works cost estimates ,RIICWM503E
+Prepare civil works bill of quantities ,RIICWM504E
+Prepare civil works schedule of rates ,RIICWM505E
+Establish civil construction plans ,RIICWM601E
+Establish civil works maintenance programs ,RIICWM602E
+"Inspect, test and maintain diesel engine systems and their ancillary systems ",RIIDES301D
+"Inspect, test and maintain joints on diesel engine systems ",RIIDES302D
+"Inspect, test and maintain cooling systems on diesel engine systems ",RIIDES303D
+"Inspect, test and maintain inlet systems on diesel engine systems ",RIIDES304D
+"Inspect, test and maintain exhaust systems on diesel engine systems ",RIIDES305D
+"Inspect, test and maintain safety shutdown systems on diesel engine systems ",RIIDES306D
+"Test, determine the cause and rectify excessive emission levels on diesel engine systems ",RIIDES307D
+Superv ise demolitions ,RIIDML401E
+Operate in isolated and remote situations ,RIIEGS201D
+Conduct field work ,RIIEGS202E
+Operate and maintain instruments and field equipment ,RIIEGS301D
+Operate and maintain instruments and field equipment ,RIIEGS301E
+Plan and undertake field trip ,RIIEGS302D
+Provide geological field assistance ,RIIEGS303E
+Mobilise equipment and materials ,RIIEGS304E
+Navigate in remote or trackless areas ,RIIEGS305E
+Identify and assess environmental and heritage concerns ,RIIENV201D
+Identify and assess environmental and heritage concerns ,RIIENV201E
+Conduct atmospheric monitoring ,RIIENV301E
+Apply environmentally sustainable work practices ,RIIENV302E
+Supervise dust and noise control ,RIIENV401E
+Implement and monitor environmental policies ,RIIENV402E
+Implement and maintain environmental management plan ,RIIENV501D
+Implement and maintain environmental management plans ,RIIENV501E
+Undertake process or project environmental impact assessments ,RIIENV502E
+Establish and maintain the environmental management system ,RIIENV601D
+Establish and maintain the environmental management system ,RIIENV601E
+Conduct fire team operations ,RIIERR201E
+Contribute to the control of  emergencies and critical situations ,RIIERR202E
+Escape from ha zardous situations unaided ,RIIERR203D
+Escape from ha zardous situations unaided ,RIIERR203E
+Provide aided rescue to endangered personnel ,RIIERR204E
+Apply initial response First Aid ,RIIERR205D
+Respond to work site incidents ,RIIERR301E
+Respond to local emergencies and incidents ,RIIERR302E
+Operate in self-contained regenerative oxygen breathing apparatus ,RIIERR303E
+Control emergencie s and critical situations ,RIIERR304D
+Control underground fires ,RIIERR305E
+Conduct underground searches ,RIIERR306E
+Extricate casualties  from underground incidents ,RIIERR307E
+Extricate and transpor t people involved in incidents ,RIIERR308E
+Establish and operate from fresh air base ,RIIERR309D
+Provide support for rescue operations ,RIIERR310D
+Apply and monitor emergency preparedness and response systems in surface operations ,RIIERR401E
+Apply and monitor underground coal mine emergency preparedness and response systems ,RIIERR402D
+Apply and monitor underground coal mine emergency preparedness and response systems ,RIIERR402E
+Lead rescue teams ,RIIERR403E
+Apply and monitor underground Metalliferous mine emergency preparedness and response ,RIIERR404D
+Control emergencie s and critical situations ,RIIERR405
+Provide support for rescue operations ,RIIERR406
+Implement underground coal mine emergency preparedness and response systems ,RIIERR501E
+Implement emergency preparedness and response systems ,RIIERR503D
+Manage major incidents and emergencies ,RIIERR504E
+Establish and maintain mine emergency preparedness and response systems ,RIIERR601E
+Establish and maintain underground coal mine emergency preparedness and response systems ,RIIERR602E
+Manage financial records ,RIIFIA401E
+Comply with site work processes/procedures ,RIIGOV201D
+Comply with site work processes/procedures ,RIIGOV201E
+"Apply, monitor and report on compliance systems ",RIIGOV401D
+"Apply, monitor and report on compliance systems ",RIIGOV401E
+"Identify, implement and main tain legal complian ce requirements ",RIIGOV501D
+"Identify, implement and main tain legal complian ce requirements ",RIIGOV501E
+"Establish, mainta in and develop a statutory compliance management system ",RIIGOV601D
+"Establish, mainta in and develop a statutory compliance management system ",RIIGOV601E
+Operate a forklift ,RIIHAN201E
+Conduct lifting operations ,RIIHAN203D
+Conduct lifting operations ,RIIHAN203E
+Load and unload cargo/goods ,RIIHAN204D
+Secure cargo ,RIIHAN205D
+"Transport plant, equipment and personnel ",RIIHAN206E
+Perform dogging ,RIIHAN208D
+Perform dogging ,RIIHAN208E
+Perform basic rigging ,RIIHAN209E
+Perform intermediate rigging operations ,RIIHAN210D
+Conduct basic scaffolding operations ,RIIHAN211D
+Conduct non-slewing crane operations ,RIIHAN212E
+Work effectively in the drilling industry ,RIIHAN213E
+Operate elevating work platform ,RIIHAN301E
+Conduct intermedia te scaffolding operations ,RIIHAN302D
+Conduct slewing crane operations ,RIIHAN304E
+Operate a gantry or overhead crane ,RIIHAN305D
+Operate a vehicle loading crane ,RIIHAN307E
+Load and unload plant ,RIIHAN308F
+Conduct telescopic materials handler operations ,RIIHAN309F
+Conduct crane operations underground ,RIIHAN310E
+Conduct operations with integrated tool carrier ,RIIHAN311F
+Organise and monito r wharf/terminal operations ,RIIHAN401D
+Maintain  site records ,RIIIMG301D
+Maintain site records ,RIIIMG301E
+Provide leadership in the supervision of Indigenous employees ,RIILAT401D
+Provide leadership in the supervision of Indigenous employees ,RIILAT401E
+Provide leadership in th e supervision of diverse work teams ,RIILAT402D
+Provide leadership in th e supervision of diverse work teams ,RIILAT402E
+Manage group processes ,RIILAT601E
+Conduct spreader operations ,RIIMCO201D
+Conduct surface miner operations ,RIIMCO302D
+Conduct rail dispatch operations ,RIIMCP202D
+Monitor plant oper ations for coal preparation ,RIIMCP301D
+Operate power tram ,RIIMCU201D
+Conduct tracked vehicle/plant operations ,RIIMCU202D
+Conduct wheeled vehicle operations (non-articulated) ,RIIMCU203D
+Conduct wheeled vehicle operations (articulated) ,RIIMCU204D
+Conduct rotational drilling ,RIIMCU205D
+"Install, maintain and recover gas drainage systems ",RIIMCU206D
+"Install, maintain an d recover electrical services ",RIIMCU207D
+Conduct basic strata control operations ,RIIMCU208E
+Conduct roadway maintenance ,RIIMCU209E
+Conduct stonedusting operations ,RIIMCU210D
+Install and ma intain explosion barriers ,RIIMCU211D
+Construct and maintain basic ventilation devices ,RIIMCU212E
+Conduct feeder breaker operations ,RIIMCU213E
+Conduct ventilation operations ,RIIMCU214E
+Operate longwall ancillary equipment ,RIIMCU215D
+Maintain lamp cabin operations ,RIIMCU216D
+Apply spontaneous comb ustion management measures ,RIIMCU217
+Work safely with polymeric chemicals in underground coal mining ,RIIMCU218
+Conduct specialised strata control operations ,RIIMCU301E
+Construct and ma intain ventilation devices ,RIIMCU302F
+Conduct continuous miner operations ,RIIMCU303E
+Conduct shuttle car operations ,RIIMCU304E
+Conduct outburst mining operations ,RIIMCU305E
+Conduct shearer operations ,RIIMCU306E
+Conduct longwall face equipment operations ,RIIMCU307E
+Install and recover longwall equipment ,RIIMCU308E
+Operate breaker line supports ,RIIMCU309E
+Conduct flexible conveyor train (FCT) operations ,RIIMCU310E
+Monitor control processes ,RIIMCU311E
+Conduct polymeric chemical operations in underground coal mining ,RIIMCU312
+Mix and pump polymeric chemicals in underground coal mining ,RIIMCU313
+Transport and store polymeric chemicals in underground coal mining ,RIIMCU314
+Conduct special roadway operations ,RIIMCU401E
+Apply and monitor the gas management plan ,RIIMCU403E
+Apply and monitor the gas drainage management plan ,RIIMCU404E
+Apply and monitor the outburst management plan ,RIIMCU405D
+Apply and monitor the inrush management plan ,RIIMCU406E
+Apply and monitor the strata management plan ,RIIMCU407E
+Apply the spontaneous combustion management plan ,RIIMCU408E
+Apply and monitor polymeric chemical management plans ,RIIMCU409
+Implement the spontane ous combustion management plan ,RIIMCU501E
+Implement the gas management plan ,RIIMCU502E
+Implement the gas drainage management plan ,RIIMCU503D
+Implement the outburst management plan ,RIIMCU504D
+Implement the inrush management plan ,RIIMCU505E
+Implement the strata management plan ,RIIMCU506E
+Establish and maintain spontaneous combustion management systems ,RIIMCU601E
+Establis h and maintain gas management systems ,RIIMCU602E
+Establish an d maintain the gas drainage management plan ,RIIMCU603D
+Establish an d maintain the outburst management plan ,RIIMCU604D
+Establish and mainta in inrush management systems ,RIIMCU605E
+Establish and main tain the mining method and strata management systems ,RIIMCU606E
+Suppress dust in open-cut environments ,RIIMEX201E
+Break oversize rock ,RIIMEX203D
+Conduct work boat/barge operations ,RIIMEX204D
+Conduct dredging operations ,RIIMEX301D
+Assess ground conditions ,RIIMEX302D
+Conduct local geotechnical risk control in surface operations ,RIIMEX303
+Apply pit plan ,RIIMEX401D
+Supervise dredging operations ,RIIMEX402E
+Supervise canal construction ,RIIMEX403E
+Apply and monitor systems for stable mining ,RIIMEX404E
+Apply and monitor systems and methods of surface coal mining ,RIIMEX405E
+Apply and monitor mine transport systems and production equipment ,RIIMEX406D
+Apply and monitor the ground control management plan ,RIIMEX407
+Supervise overburden dump operations ,RIIMEX408
+Implement pit plan ,RIIMEX501D
+Implement systems and methods of mining ,RIIMEX502D
+Manage dredging operations ,RIIMEX503E
+Implement the ground control management plan ,RIIMEX504
+Plan pit development ,RIIMEX601D
+Establish and mainta in surface mining ground control and slope stability systems ,RIIMEX602D
+Establish and maintain  underground mining ground control and stable mining systems ,RIIMEX603D
+Establish and ma intain surface product haulage and transport systems ,RIIMEX604D
+Control and monito r automated plant/machinery ,RIIMPG301D
+Operate roller/compactor underground ,RIIMPO201E
+Operate roller/compactor ,RIIMPO205E
+Conduct bulk water truck operations ,RIIMPO206D
+Operate support equipment ,RIIMPO208F
+Conduct underground truck operations ,RIIMPO210E
+Conduct hydraulic excavator operations ,RIIMPO301E
+Conduct hydraulic shovel operations ,RIIMPO302E
+Conduct rope shovel operations ,RIIMPO303E
+Conduct wheel loader operations ,RIIMPO304E
+Conduct coal stockpile dozer operations ,RIIMPO305F
+Operate plant/machinery on live stockpiles ,RIIMPO306D
+Conduct wheel grader operations in underground mines ,RIIMPO307E
+Conduct trac ked dozer operations ,RIIMPO308F
+Conduct wheeled dozer operations ,RIIMPO309F
+Conduct grader operations ,RIIMPO310F
+Conduct scraper operations ,RIIMPO312E
+Conduct face loader operations ,RIIMPO313E
+Conduct tractor operations ,RIIMPO315E
+Conduct self-propelled compactor operations ,RIIMPO316E
+Conduct roller operations ,RIIMPO317F
+Conduct civil construction skid steer loader operations ,RIIMPO318F
+Conduct backhoe/loader operations ,RIIMPO319E
+Conduct civil construction excavator operations ,RIIMPO320F
+Conduct civil construction wheeled front end loader operations ,RIIMPO321F
+Conduct civil construction tracked front end loader operations ,RIIMPO322E
+Conduct civil construction dozer operations ,RIIMPO323E
+Conduct civil construction grader operations ,RIIMPO324F
+Conduct civil construction scraper operations ,RIIMPO325E
+Conduct water vehicle operations ,RIIMPO326E
+Conduct pi pe layer operations ,RIIMPO327E
+Conduct continuous bucket trencher operations ,RIIMPO328E
+Conduct dragline operations ,RIIMPO329F
+Conduct operations with stockpile dozer ,RIIMPO331E
+"Conduct underground load, haul and dump truck operations ",RIIMPO333E
+Conduct skid steer loader operations using attachments ,RIIMPO334E
+Conduct skid steer load er operations without attachments ,RIIMPO335E
+Conduct belly dump truck operations ,RIIMPO336E
+Conduct articula ted haul truck operations ,RIIMPO337E
+Conduct rigid haul truck operations ,RIIMPO338E
+Cond uct side tipper operations ,RIIMPO339A
+Supervise mobile plant operations ,RIIMPO401D
+Apply the principles of earthworks construction ,RIIMPO402D
+Monitor interaction of heavy and light vehicles and mining equipment ,RIIMPO403D
+"Implement, monitor, rectify and report on mobile plant and equipment systems ",RIIMPO501D
+Manage the interaction of heav y and light vehicles and mining equipment ,RIIMPO502D
+Install and maintain ventilation systems and equipment ,RIIMSM307D
+"Load, secure and unload  drilling equipment and materials ",RIINHB201E
+Set up and pack up drill sites ,RIINHB202E
+Support drilling processes ,RIINHB203E
+Assist continuous flight auger drilling ,RIINHB205F
+Assist large diameter auger drilling ,RIINHB206E
+Assist diamond core drilling ,RIINHB208E
+Assist surface directional drilling ,RIINHB210E
+Assist mud rotary drilling ,RIINHB211E
+Assist horizontal direction drilling ,RIINHB217E
+Assist grouting and cementing operations ,RIINHB218E
+Assist with reverse circulation drilling ,RIINHB219E
+Assist coil tube drilling ,RIINHB220
+Assist rotary air drilling ,RIINHB221
+Assist sonic drilling operations ,RIINHB222
+"Prepare, run and cement casing ",RIINHB223
+Set up and prepare for drilling operations ,RIINHB301E
+Conduct reaming ,RIINHB302D
+Install product pipe ,RIINHB303D
+Conduct reverse circulation drilling operations ,RIINHB304E
+Conduct continuous flight auger drilling ,RIINHB305E
+Conduct large diameter auger drilling ,RIINHB306E
+Conduct conventional core drilling ,RIINHB307D
+Conduct wireline core drilling ,RIINHB308D
+Conduct guided boring ,RIINHB309E
+Conduct surface directional drilling ,RIINHB310D
+Conduct mud rotary drilling operations ,RIINHB311E
+Conduct raise boring ,RIINHB312D
+Conduct top-hole hammer drilling ,RIINHB315D
+Conduct underground in-seam directional drilling ,RIINHB316D
+Install underground in-seam directional drilling standpipes ,RIINHB317D
+Install and operate water and gas control equipment ,RIINHB318D
+Construct monitoring bores ,RIINHB320D
+Construct multiple  aquifer production bores ,RIINHB322E
+Conduct horizontal directional drilling ,RIINHB323D
+Conduct grouting or cementing operations ,RIINHB324E
+Construct single aquifer bores ,RIINHB325E
+Conduct coil tube drilling ,RIINHB326
+Conduct cyber chair drilling operations ,RIINHB327
+Conduct rotary air drilling ,RIINHB328
+Conduct sonic drilling operations ,RIINHB329
+Conduct down-hole hammer drilling ,RIINHB330
+"Plan and supervise the mobilisation of equipment, crew and materials ",RIINHB401E
+Supervise drilling operations ,RIINHB402E
+Supervise geotechn ical drilling operations ,RIINHB403D
+Construct artesi an (flowing) aquifer bores ,RIINHB411E
+Construct geothermal wells ,RIINHB412D
+Plan drilling ,RIINHB501F
+Assist in maintaining ri g safety and emergency procedures ,RIIOGD201D
+Carry out equipment and basic rig maintenance ,RIIOGD202D
+Carry out equipment and basic rig maintenance procedures ,RIIOGD202E
+Prepare and operate drilling fluid systems ,RIIOGD203F
+Perform rig floor operations ,RIIOGD204F
+Support blow ou t prevention operations ,RIIOGD205E
+Assist and monitor well control operations ,RIIOGD206E
+Operate and maintain ancillary equipment ,RIIOGD209F
+Conduct and maintain derrick operations ,RIIOGD301E
+Assist in running casing ,RIIOGD302F
+Trip pipe ,RIIOGD303F
+Apply effective coal seam gas control practices ,RIIOGD304D
+Apply blow out prevention operational procedures ,RIIOGD305E
+"Rig up, conduct pre-spud operations and rig down ",RIIOGD401E
+Participate in ni ppling-up and pressure tests ,RIIOGD402E
+Conduct drilling operations ,RIIOGD403E
+Coordinate air drilling operations ,RIIOGD404E
+Carry out well control an d blow out prevention operations ,RIIOGD405E
+Manage rig operations ,RIIOGD501F
+Plan and evaluate rig operations ,RIIOGD502E
+Oversee drilling operations ,RIIOGD503E
+Manage drilling operations ,RIIOGD504D
+Manage drilling operations ,RIIOGD504E
+Manage drilling and well servicing induction and orientation ,RIIOGD505E
+Manage rig move and camp move ,RIIOGD506D
+Manage and monitor rig-up and rig-up to spud operations ,RIIOGD507D
+Manage well co mpletion and abandonment ,RIIOGD508D
+Manage multiple drilling operations ,RIIOGD601D
+Operate drilling fluids and mud pits ,RIIOGF302E
+Carry out rig lease operations ,RIIOGN201F
+Operate mud pumps ,RIIOGN302F
+Operate mud systems ,RIIOGN303D
+"Operate, monitor and maintain mud systems ",RIIOGN303E
+Conduct aeration process ,RIIPBE201D
+Conduct digestion process ,RIIPBE202D
+Conduct precipitation operations ,RIIPBE203D
+Conduct reduction process ,RIIPBE204D
+Conduct calcinations activities ,RIIPBE301D
+Conduct bacterial oxidation ,RIIPBE302D
+Conduct filtering process ,RIIPBE303D
+Conduct heavy media separation ,RIIPBE304D
+Conduct high  tension separation ,RIIPBE305D
+Conduct leaching process ,RIIPBE306D
+Conduct thickening and clarifying process ,RIIPBE308D
+Conduct wet gravity separation ,RIIPBE309D
+Conduct flotation process ,RIIPBE310D
+Conduct magnetic separation ,RIIPBE311D
+Conduct conveyor operations ,RIIPEO201E
+Provide deck support for conveyor-car high wall mining operations ,RIIPEO202E
+Conduct stacker operations ,RIIPEO203D
+Conduct shore side mooring operations ,RIIPEO204D
+Conduct ship loading operations ,RIIPEO205D
+Lay and recover cables and hoses ,RIIPEO206D
+Conduct conveyor-car high wall mining operations ,RIIPEO301E
+Operate and monitor ore car dumpers ,RIIPEO302E
+Conduct pump operations ,RIIPGP201D
+Handle reagents ,RIIPGP202D
+Operate compressors ,RIIPGP203D
+Conduct drying activities ,RIIPGP301D
+Monitor and operate auxiliary plant and equipment ,RIIPGP302D
+Operate raw material feed systems ,RIIPHA201D
+Conduct milling/grinding ,RIIPHA301D
+Operate and monitor filter processes ,RIIPHA302D
+Conduct electrowinning/electro-refining operations ,RIIPRE301D
+Conduct elution processes ,RIIPRE302D
+Conduct gold room operations ,RIIPRE303D
+"Implement, monitor, rectify and report on contracts ",RIIPRM501E
+Conduct crushing operations ,RIIPRO201D
+Conduct screening and conveying operations ,RIIPRO202D
+Operate programmable logic control systems ,RIIPRO203D
+Bulk package and store product ,RIIPRO204D
+Conduct blending plant operations ,RIIPRO205D
+Conduct crushing an d screening plant operations ,RIIPRO301D
+Perform process control room operations ,RIIPRO302D
+Conduct sand wash plant operations ,RIIPRO303D
+Supervise processing operations ,RIIPRO401D
+Supervise recycled materials operations ,RIIPRO402D
+Implement site pr ocessing plant operations ,RIIPRO501D
+"Develop, implement and maintain process control systems ",RIIPRO502D
+Cast ingots ,RIIPSM302D
+Operate furnaces ,RIIPSM304D
+Maintain and moni tor site quality standards ,RIIQUA201D
+Maintain and monitor site quality standards ,RIIQUA201E
+Apply a quality management system on site ,RIIQUA401E
+"Implement, monitor and develop quality management plans ",RIIQUA501E
+Establish and ma intain a quality system ,RIIQUA601D
+Establish and ma intain a quality system ,RIIQUA601E
+Apply and monitor mine services and infrastructure systems ,RIIRAI401D
+Apply and monitor site pl ant and resource management plan ,RIIRAI402D
+Implement mine transport systems and production equipment ,RIIRAI501D
+Develop and implement site plant and resource management plan ,RIIRAI502D
+Implement site services and infrastructure systems ,RIIRAI503D
+Select and instal l surface plant and equipment ,RIIRAI504D
+Implement the surface mine  mechanical plant management plan ,RIIRAI505D
+"Implement, monitor, rectify and report on inventory control system ",RIIRAI506D
+Implement the underground coal mine mechanical plant management plan ,RIIRAI507D
+Implement mine services systems ,RIIRAI508E
+Implement mine fixed plant and infrastructure systems ,RIIRAI509D
+"Implement, monitor, rectify and report on in terfaces between electrical and mechanical ",RIIRAI510D
+Establish and main tain the site infrastructure and fixed plant systems ,RIIRAI601D
+"Establish and maintain  mine mechanical plant, servic es and infrastructure systems ",RIIRAI602D
+Establish and maintain mine transport systems and production equipment ,RIIRAI603E
+Establish and maintain mine  services and infrastructure systems ,RIIRAI604E
+Establish and mainta in an underground mine mechan ical plant management system ,RIIRAI605D
+Establish quarry operations ,RIIRAI607D
+Establish quarry development ,RIIRAI608D
+"Establish and maintain  electrical installations, reticulation and protection system ",RIIRAI609D
+Establish & maintain mechanical  standard/engineering practices for transport/ production ,RIIRAI610D
+Establish and main tain a surface mine mechanical plant management system ,RIIRAI611D
+Establish and maintain underground product haulage and transport systems ,RIIRAI612D
+Conduct local risk control ,RIIRIS201D
+Conduct local risk control ,RIIRIS201E
+Respond to site based spills ,RIIRIS202D
+Respond to site based spills ,RIIRIS202E
+Apply risk management processes ,RIIRIS301D
+Apply risk management processes ,RIIRIS301E
+Apply site risk management system ,RIIRIS401E
+Carry out the risk management process ,RIIRIS402D
+Carry out the risk management process ,RIIRIS402E
+Manage and coordinate spill response ,RIIRIS403D
+Manage and coordinate spill response ,RIIRIS403E
+Implement and maintain management systems to control risk ,RIIRIS501E
+Establish and maintain  the risk management system ,RIIRIS601D
+Establish and mainta in risk management systems ,RIIRIS601E
+"Position, set-up and operate variable message signs ",RIIRTM201E
+"Position, set-up and operate portable traffic signals ",RIIRTM202E
+Work as a safety observer/spotter ,RIIRTM203E
+Operate truck or trailer mounted attenuators ,RIIRTM301E
+Handle resources and infrastructure materials and safely dispose of nontoxic materials ,RIISAM201D
+Handle resources and infrastructure materials and safely dispose of nontoxic materials ,RIISAM201E
+Isolate and access plant ,RIISAM202E
+Use hand and power tools ,RIISAM203D
+Use hand and power tools ,RIISAM203E
+Operate small plant and equipment ,RIISAM204D
+Operate small plant and equipment ,RIISAM204E
+"Cut, weld and bend materials ",RIISAM205D
+"Cut, weld and bend materials ",RIISAM205E
+Apply operational maintenance skills ,RIISAM207E
+Perform plant operational maintenance ,RIISAM208E
+Carry out operational maintenance ,RIISAM209E
+Service mine plant and equipment ,RIISAM212E
+Position and set up mobile lighting ,RIISAM213E
+Carry out drilling in dustry operational maintenance ,RIISAM215E
+Test operational func tions of vehicles and equipment ,RIISAM301F
+Shutdown dredge for operator maintenance ,RIISAM303E
+"Install, commissi on and maintain major conveyor equipment and systems ",RIISAM304E
+"Service and maintain conveyors, feeders and hoppers ",RIISAM306E
+Service an d maintain crushers ,RIISAM307E
+Service and maintain screens ,RIISAM308E
+Service and maintain pumps ,RIISAM309E
+"Manage tyre, wheel and rim assembly applications ",RIISAM315A
+"Apply site plant, equipment and infrastructure maintenance management plans ",RIISAM401E
+Commission /recommission plant ,RIISAM403E
+Monitor oil and gas equipment maintenance ,RIISAM404
+"Implement and maintain  the site plant, equipment and infrastructure maintenance plans ",RIISAM501E
+Manage general drilling equipment maintenance ,RIISAM502E
+"Establish an d maintain plant, equipment and in frastructure maintenance systems ",RIISAM601E
+Conduct mine surveying operations ,RIISDM501D
+Blend stockpile materials ,RIISRM301E
+Conduct stockpile reclaiming operations ,RIISRM302E
+Move and position materials to form stockpiles ,RIISRM303E
+Maintain stockpiles ,RIISRM304E
+Apply and monitor the site stockpile management plan ,RIISRM401D
+Implement stockpile management plans ,RIISRM501E
+Design stockpile formations and reclaiming systems ,RIISRM502E
+Establish an d maintain the stockpile management system ,RIISRM601D
+Establish and maintain stockpile management systems ,RIISRM601E
+Read and interpret maps ,RIISTD201D
+Read and interpret maps ,RIISTD201E
+Collect routine site samples ,RIISTD202D
+Collect routine site samples ,RIISTD202E
+Take environmental samples and measurements ,RIISTD301D
+Process data and maintain accurate records ,RIISTD302E
+Monitor quarry laboratory operations and the quality of results ,RIISTD401
+Install ground support ,RIIUMM201D
+Install and maintain vent ,RIIUMM202D
+Prepare and perfor m manual scaling operations ,RIIUMM203D
+Conduct hand held mining ,RIIUMM303D
+Construct and ma intain underground roads ,RIIUMM304D
+Install and remove a secondary fan ,RIIUMM305D
+Conduct mechanical scaling ,RIIUMM306D
+Maintain underground stockpiles ,RIIUMM307D
+"Install, maintain and recover reticulation systems ",RIIUND201D
+Operate from elevated work platform underground ,RIIUND202E
+Refuel vehicles/machines underground ,RIIUND204D
+Respond to a workforce incident ,RIIUND205E
+Install hand held underground ground support ,RIIUND206D
+Conduct underground lifting operations ,RIIUND207E
+Conduct skip operations ,RIIUND208E
+Operate automated winder ,RIIUND209E
+Operate manual winder ,RIIUND301E
+Conduct cage operations ,RIIUND302E
+Operate winder for shaft sinking ,RIIUND303E
+Recover underground equipment ,RIIUND305D
+Assessment Requirements for RIIUND307D Conduct tele-remote operations ,RIIUND307D
+Conduct mechanical underground ground support drilling and installation ,RIIUND309D
+Apply shot-crete underground ,RIIUND310D
+Apply shotcrete underground ,RIIUND310E
+Apply and monitor the ventilation management plan ,RIIUND401E
+Implement the ventilation management plan ,RIIUND501E
+Establish an d maintain ventilation management systems ,RIIUND601E
+Establish and maintain mine services systems ,RIIUND602D
+"Manage, operate and main tain the mine ventilation system ",RIIUND603D
+Operate a light vehicle ,RIIVEH201E
+Operate a medium vehicle ,RIIVEH202F
+Operate a light vehicle underground ,RIIVEH203E
+Operate multi-combination vehicle ,RIIVEH302E
+Drive heavy combination vehicle ,RIIVEH303F
+Conduct ti p truck operations ,RIIVEH304E
+Operate and maintain  a four wheel drive vehicle ,RIIVEH305F
+Operate a mine service vehicle ,RIIVEH306E
+Operate a heavy rigid vehicle ,RIIVEH307F
+Treat and dispose of rejects and tailings ,RIIWBP201E
+Distribute tailings ,RIIWBP202E
+Monitor tailings dam environments ,RIIWBP203E
+Apply and monitor site waste and by-products management plan ,RIIWBP401D
+Implement site waste and by-product management plan ,RIIWBP501D
+Plan and monitor re cycled material operations ,RIIWBP502D
+Work safely and follo w WHS policies and procedures ,RIIWHS201D
+Work safely and follo w WHS policies and procedures ,RIIWHS201E
+Enter and work in confined spaces ,RIIWHS202D
+Enter and work in confined spaces ,RIIWHS202E
+Work safely at heights ,RIIWHS204E
+Control traffic with stop-slow bat ,RIIWHS205E
+Control traffic with portable traffic control devices and temporary traffic signs ,RIIWHS206
+Control traffic on high volume roads ,RIIWHS207
+Conduct safety and health investigations ,RIIWHS301D
+Conduct safety and health investigations ,RIIWHS301E
+Implement traffic management plan ,RIIWHS302D
+Implement traffic management plans ,RIIWHS302E
+"Position, set up and progra m portable traffic control devices ",RIIWHS303
+Implement traffic manageme nt plans on high volume roads ,RIIWHS304
+Implement traffic management  plans on motorways and freeways ,RIIWHS305
+Supervise work in confined spaces ,RIIWHS401E
+Examine and maintain mine safety ,RIIWHS402E
+Apply the mine work health and safety management plan ,RIIWHS403D
+Apply the work health and safety management system ,RIIWHS403E
+Implement and monitor heal th and hygiene management systems ,RIIWHS404D
+Implement and monitor heal th and hygiene management systems ,RIIWHS404E
+Maintain standard proc edures and safe working practices ,RIIWHS405D
+Establish and maintain the WHS management system ,RIIWHS601D
+Establish and mainta in the WHS management system ,RIIWHS601E
+Conduct dewatering activities in surface operations ,RIIWMG201D
+Conduct dewatering operations in underground mining operations ,RIIWMG202D
+Drain and dewate r civil construction site ,RIIWMG203D
+Drain and dewate r civil construction sites ,RIIWMG203E
+Control construc tion site water tables ,RIIWMG301E
+Reclaim and treat water ,RIIWMG302D
+Apply and monitor the site water management plan ,RIIWMG401D
+Implement the si te water management plan ,RIIWMG501D
+Establish and mainta in water management system ,RIIWMG601D
+Prepare equipment for well servicing air operations ,RIIWSV203E
+Conduct and maintain well servicing derrick operations ,RIIWSV301F
+Trip production stri ng for well servicing operations ,RIIWSV302E
+Operate fluid systems ,RIIWSV303E
+Prepare well serv icing fishing operations ,RIIWSV304E
+Rig up and rig down for well servicing operations ,RIIWSV401E
+Conduct well servicing milling operations ,RIIWSV402D
+Participate in well servic ing nippling-up and pressure test ,RIIWSV403E
+Conduct fishing operations ,RIIWSV404D
+Manage well servic ing induction and orientation ,RIIWSV501D
+Manage well completion and rig release ,RIIWSV502E
+Manage and monitor rig-up operations ,RIIWSV503E
