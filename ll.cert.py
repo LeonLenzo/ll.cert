@@ -68,7 +68,7 @@ def extract_data_from_pdf(pdf_path, course_dict):
 
 def compile_pdf_data(uploaded_pdfs, course_dict):
     """
-    Compile data from uploaded PDFs.
+    Compile data from uploaded PDFs and add a unique identifier.
     """
     all_rows = []
     for uploaded_file in uploaded_pdfs:
@@ -77,7 +77,16 @@ def compile_pdf_data(uploaded_pdfs, course_dict):
             f.write(uploaded_file.read())
         rows = extract_data_from_pdf(pdf_path, course_dict)
         all_rows.extend(rows)
-    return pd.DataFrame(all_rows)
+
+    # Convert extracted data to a DataFrame
+    pdf_data = pd.DataFrame(all_rows)
+
+    # Add a unique identifier column
+    if not pdf_data.empty:
+        pdf_data["Unique ID"] = pdf_data["Certificate Number"] + "_" + pdf_data["Course Code"]
+
+    return pdf_data
+
 
 def cross_reference_data(pdf_data, contact_data):
     """
