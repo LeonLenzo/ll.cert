@@ -1,0 +1,42 @@
+import fitz  # PyMuPDF library
+import pandas as pd
+
+# Function to extract text from PDF
+def extract_text_from_pdf(pdf_path):
+    text = ""
+    # Open the PDF file
+    with fitz.open(pdf_path) as pdf:
+        # Iterate over each page
+        for page_num in range(pdf.page_count):
+            page = pdf[page_num]
+            # Extract text from each page
+            text += page.get_text()
+    return text
+
+# Function to append text data to an Excel file
+def append_text_to_spreadsheet(text_data, excel_path):
+    # Convert text into a list of rows (or process it further if needed)
+    rows = [[text_data]]
+    
+    # Load existing Excel file or create a new one
+    try:
+        df = pd.read_excel(excel_path)
+    except FileNotFoundError:
+        df = pd.DataFrame(columns=["Extracted Text"])
+
+    # Append the new data
+    new_df = pd.DataFrame(rows, columns=["Extracted Text"])
+    df = pd.concat([df, new_df], ignore_index=True)
+    
+    # Save to Excel
+    df.to_excel(excel_path, index=False)
+
+# Usage
+pdf_path = "path/to/your/file.pdf"
+excel_path = "path/to/your/spreadsheet.xlsx"
+
+# Extract text from PDF
+text_data = extract_text_from_pdf(pdf_path)
+
+# Append the extracted text to the spreadsheet
+append_text_to_spreadsheet(text_data, excel_path)
