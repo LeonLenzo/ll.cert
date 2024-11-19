@@ -59,11 +59,10 @@ def cross_reference_data(pdf_data, contact_data):
     return merged_data
 
 # Streamlit App
-st.title("Certificate Reader and Processor")
+st.title("Leon is the Best")
 
 st.markdown("""
-This app processes certificate PDFs and cross-references them with a pre-defined contact information file.
-Upload your certificates below to get started.
+Let me know how it goes.
 """)
 
 # Hard-coded path to the contact file
