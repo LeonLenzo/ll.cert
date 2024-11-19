@@ -62,8 +62,7 @@ def cross_reference_data(pdf_data, contact_data):
 st.title("Errun loves it.")
 
 st.markdown("""
-This app processes certificate PDFs and cross-references them with a contact information CSV.
-Upload your files below to get started.
+Here you go buddy, hope this works for you.
 """)
 
 # File upload widgets
