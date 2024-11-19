@@ -41,7 +41,7 @@ def extract_data_from_pdf(pdf_path, course_dict):
     name_pattern = r"This is a statement that:\s*(.+)"
     cert_number_pattern = r"Certificate Number:\s*(\S+)"
     date_pattern = r"Date of Issue:\s*(\d{1,2}-\w{3}-\d{2})"
-    course_code_pattern = r"(RIIMPO\d+[A-Z]?)"
+    course_code_pattern = r"(RII[A-Z]+\d+[A-Z]?)"
 
     # Extract fields
     name = re.search(name_pattern, text)
