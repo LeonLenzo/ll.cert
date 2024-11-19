@@ -59,25 +59,32 @@ def cross_reference_data(pdf_data, contact_data):
     return merged_data
 
 # Streamlit App
-st.title("Errun loves it.")
+st.title("Certificate Reader and Processor")
 
 st.markdown("""
-Here you go buddy, hope this works for you.
+This app processes certificate PDFs and cross-references them with a pre-defined contact information file.
+Upload your certificates below to get started.
 """)
 
-# File upload widgets
-uploaded_pdfs = st.file_uploader("Upload PDF Certificates (multiple files allowed)", type="pdf", accept_multiple_files=True)
-uploaded_csv = st.file_uploader("Upload Contact Info CSV", type="csv")
+# Hard-coded path to the contact file
+CONTACT_FILE = "clients.csv"
 
-if st.button("Process Files"):
-    if uploaded_pdfs and uploaded_csv:
+# Check if the hard-coded file exists
+if not os.path.exists(CONTACT_FILE):
+    st.error(f"Contact file not found: {CONTACT_FILE}. Please ensure it is in the app directory.")
+else:
+    # Load the hard-coded contact information
+    contact_data = pd.read_csv(CONTACT_FILE)
+    st.success(f"Loaded contact information from: {CONTACT_FILE}")
+
+# File upload widget for PDFs
+uploaded_pdfs = st.file_uploader("Upload PDF Certificates (multiple files allowed)", type="pdf", accept_multiple_files=True)
+
+if st.button("Process Certificates"):
+    if uploaded_pdfs:
         # Process PDFs
         st.info("Processing PDF files...")
         pdf_data = compile_pdf_data(uploaded_pdfs)
-
-        # Load CSV
-        st.info("Processing contact info CSV...")
-        contact_data = pd.read_csv(uploaded_csv)
 
         # Cross-reference data
         st.info("Cross-referencing data...")
@@ -97,4 +104,4 @@ if st.button("Process Files"):
             mime="text/csv"
         )
     else:
-        st.error("Please upload both PDF files and the contact CSV.")
+        st.error("Please upload PDF files.")
